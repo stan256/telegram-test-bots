@@ -1,4 +1,4 @@
-package com.github.sstdz.mytelegramtestbots;
+package com.github.sstdz.mytelegramtestbots.echobot;
 
 import com.github.sstdz.mytelegramtestbots.echobot.SimpleEchoBot;
 import org.telegram.telegrambots.ApiContextInitializer;
